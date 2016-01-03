@@ -2,7 +2,7 @@
   "name": "bulletin-board",
   "version": "0.0.1",
   "description": "A bulletin board developed in React.",
-  "main": "note.js",
+  "main": "main.js",
   "scripts": {
     "start": "webpack"
   },
