@@ -1,0 +1,32 @@
+{
+  "name": "bulletin-board",
+  "version": "0.0.1",
+  "description": "A bulletin board developed in React.",
+  "main": "note.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "Frank Wille",
+  "license": "ISC",
+  "author": "Frank Wille",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.3.26",
+    "babel-loader": "^6.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.3.1",
+    "gulp-eslint": "^1.1.1",
+    "gulp-open": "^1.0.0",
+    "httpster": "^1.0.1",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {}
+}
